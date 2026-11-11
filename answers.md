@@ -3,7 +3,7 @@
 **Name:**Lily Goldman
 
 
-Place all written answers from `recitation-10.md` here for easier grading.
+Place all written answers from `recitation-08.md` here for easier grading.
 
 
 
